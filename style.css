@@ -29,3 +29,15 @@ span {
     color: rgb(201, 81, 101);
     text-shadow: plum;
 }
+
+#oldPage {
+    top: 100%;
+}
+
+#text {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    margin-left: 5%;
+}
