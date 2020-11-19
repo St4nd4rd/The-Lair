@@ -24,3 +24,8 @@ body {
     animation-name: spin;
     animation-duration: 2s;
 }
+
+span {
+    color: rgb(201, 81, 101);
+    text-shadow: plum;
+}
